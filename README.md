@@ -17,7 +17,7 @@ def main():
     # Filter parameters (critical for performance)
     W_max = 40      
     S_min = 0.5     
-    S_max = 0.8     
+    S_max = 1.2    
     Angle_min = 20   
     
     # File paths
